@@ -1,4 +1,4 @@
-# Convert from ****.ppm to *.jpg
+# Convert from *.ppm to *.jpg
 
 ## PPM
 
